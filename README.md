@@ -4,7 +4,7 @@ A simple program that reads a story template from a txt file, and replaces all t
 
 
 This mini project was built when I just started learning java. I always used to do MadLib books as a kid, so I thought
-it would be a fun thing to program and develop my skills accordingly.
+it would be a fun thing to build to develop my skills.
 
 &nbsp;
 ### Project Date
