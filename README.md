@@ -1,6 +1,6 @@
 # MadLib Story Maker
 A simple program that reads a story template from a txt file, and replaces all the words marked with <>. For example,
-"My <animal> walked down the street" could become "My snake walked down the street"
+"My \<animal\> walked down the street" could become "My snake walked down the street"
 
 
 This mini project was built when I just started learning java. I always used to do MadLib books as a kid, so I thought
